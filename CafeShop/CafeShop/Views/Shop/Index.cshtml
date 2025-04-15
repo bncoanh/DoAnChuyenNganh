@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Shop";
+}
+
+<input type="number" value="@ViewBag.Account.Id" hidden disabled id="AccountId" />
+
+<!-- Start Content -->
+<div class="container py-5">
+    <div class="row">
+
+        <div class="col-8">
+            <h1>Sản phẩm</h1>
+        </div>
+        <div class="col-4 mb-1 p-0">
+            <div class="input-group mb-1 me-1">
+                <input id="request" type="text" class="form-control form-control-sm" placeholder="Tìm kiếm">
+                <button class="btn btn-sm btn-primary" type="button" id="btn_search"><i class="bi bi-search"></i></button>
+            </div>
+        </div>
+        <div class="col-10">
+            <div class="row">
+                <!-- Sản phẩm -->
+                <div class="row" id="list_product" style="text-align: center;">
+                </div>
+                <!-- ====================== End sản phẩm ====================== -->
+                <div div="row">
+                    <ul class="pagination pagination-lg justify-content-end" id="pagination">
+                        <li class="page-item disabled">
+                            <a class="page-link active rounded-0 mr-3 shadow-sm border-top-0 border-left-0" href="#" tabindex="-1">1</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link rounded-0 mr-3 shadow-sm border-top-0 border-left-0 text-dark" href="#">2</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link rounded-0 shadow-sm border-top-0 border-left-0 text-dark" href="#">3</a>
+                        </li>                      
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Sản phẩm -->
+        <!-- Danh mục -->
+        <div class="col-2">
+            <h1 class="h2 pb-4">Danh mục</h1>
+
+            <a class="h3 text-decoration-none text-dark" href="#" onclick="changeType(0)"> Tất cả </a>
+            <div style="height:20px"></div>
+            <ul class="list-unstyled templatemo-accordion">
+                <li class="pb-3">
+                    <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="#">
+                        Coffe
+                        <i class="bi bi-caret-down-fill mt-1"></i>
+                    </a>
+
+                    <ul class="collapse show list-unstyled ps-3" id="coffe_list">
+                    </ul>
+
+                </li>
+                <li class="pb-3">
+                    <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="#">
+                        Trà
+                        <i class="bi bi-caret-down-fill mt-1"></i>
+                    </a>
+
+                    <ul class="collapse list-unstyled ps-3" id="tea_list">
+                    </ul>
+
+                </li>
+                <li class="pb-3">
+                    <a class="collapsed d-flex justify-content-between h3 text-decoration-none" href="#">
+                        Khác
+                        <i class="bi bi-caret-down-fill mt-1"></i>
+                    </a>
+
+                    <ul class="collapse list-unstyled ps-3" id="different_list">
+                    </ul>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!-- End Content -->
+
+    <script src="~/js/client/shop.js"></script>

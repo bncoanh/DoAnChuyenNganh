@@ -1,0 +1,145 @@
+﻿@using CafeShop.Models.DTOs
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- Start Banner Hero -->
+<div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="0" class="active"></li>
+        <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="container">
+                <div class="row p-5">
+                    <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                        <img class="img-fluid" src="~/assets/images/blog3.jpg" alt="">
+                    </div>
+                    <div class="col-lg-6 mb-0 d-flex align-items-center">
+                        <div class="text-align-left align-self-center">
+                            <h1 class="h1 text-success"><b>The Coffee House</b></h1>
+                            <h3 class="h2">Nâng tầm hương vị, kết nối đam mê</h3>
+                            <p>
+                                Chào mừng bạn đến với Coffe Shop, nơi mỗi hạt cà phê là một câu chuyện đầy cảm hứng.
+                                Tại đây, chúng tôi tự hào mang đến cho bạn những ly cà phê đậm đà, nguyên chất từ những vùng đất trù phú bậc nhất Việt Nam.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="container">
+                <div class="row p-5">
+                    <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                        <img class="img-fluid" src="~/assets/images/aboutbanner.jpg" alt="">
+                    </div>
+                    <div class="col-lg-6 mb-0 d-flex align-items-center">
+                        <div class="text-align-left">
+                            <h1 class="h1 text-success">Không gian</h1>
+                            <h3 class="h2">Chạm vào hương vị, kết nối tâm hồn</h3>
+                            <p>
+                                Với không gian hiện đại và ấm cúng, nơi bạn có thể thư giãn giữa những chậu cây xanh mát và thưởng thức ly cà phê thơm ngon.
+                                Hãy đến để trải nghiệm sự hòa quyện giữa thiên nhiên và hương vị tuyệt hảo của chúng tôi.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="container">
+                <div class="row p-5">
+                    <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                        <img class="img-fluid" src="~/assets/images/showcase.jpg" alt="">
+                    </div>
+                    <div class="col-lg-6 mb-0 d-flex align-items-center">
+                        <div class="text-align-left">
+                            <h1 class="h1 text-success">Pha chế</h1>
+                            <h3 class="h2">Mỗi giọt cafe, một chuyến phiêu lưu mới bắt đầu.</h3>
+                            <p>
+                                Đội ngũ barista giàu kinh nghiệm và đam mê của chúng tôi luôn sáng tạo, không ngừng học hỏi để mang đến cho bạn những trải nghiệm cà phê độc đáo và hoàn hảo nhất.
+                                Chúng tôi sử dụng những hạt cà phê tươi ngon nhất, kết hợp cùng kỹ thuật pha chế tinh tế để tạo ra những ly cà phê đậm đà, mang hương vị đặc trưng.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <a class="carousel-control-prev text-decoration-none w-auto ps-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="prev">
+        <i class="bi bi-chevron-left"></i>
+    </a>
+    <a class="carousel-control-next text-decoration-none w-auto pe-3" href="#template-mo-zay-hero-carousel" role="button" data-bs-slide="next">
+        <i class="bi bi-chevron-right"></i>
+    </a>
+</div>
+<!-- End Banner Hero -->
+
+
+
+<!-- Start Top Seller of Coffe Shop-->
+<section class="container">
+    <div class="row text-center">
+        <div class="col-lg-6 m-auto">
+            <h1 class="h1">--- Bán chạy nhất ---</h1>          
+        </div>
+    </div>
+    <div class="row">
+        @foreach (ProductDto item in ViewBag.TopSeller)
+        {
+            <div class="col-12 col-md-3 p-2">
+                <a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId ="@item.Id"><img src="@item.ImageUrl" class="rounded-square img-fluid rounded-3 pb-2"></a>
+                <h5 class="text-center mb-2">@item.Name</h5>
+                <p class="text-center"><a class="btn btn-success" asp-controller="Shop" asp-action="Index">Cửa hàng</a></p>
+            </div>
+        }
+    </div>
+</section>
+<!-- End Top Seller of Coffe Shop -->
+
+
+<!-- Start Top New Product of Coffe Shop -->
+
+<section class="bg-light">
+    <div class="container py-5">
+        <div class="row text-center py-3">
+            <div class="col-lg-6 m-auto">
+                <h1 class="h1">Sản phẩm mới</h1>
+                <p>
+                    Nguồn cảm hứng đến từ những hạt cà phê đượm vị
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            @foreach (ProductDto item in ViewBag.TopNew)
+            {
+                <div class="col-12 col-md-3 mb-4">
+                    <div class="card h-100">
+                        <a asp-controller="Shop" asp-action="IndexDetails" asp-route-prId="@item.Id">
+                            <img src="@item.ImageUrl" class="card-img-top">
+                        </a>
+                        <div class="card-body">
+                            <ul class="list-unstyled d-flex justify-content-between">
+                                <li>
+                                    <i class="bi bi-star-fill text-warning"></i>
+                                    <i class="bi bi-star-fill text-warning"></i>
+                                    <i class="bi bi-star-fill text-warning"></i>
+                                    <i class="bi bi-star-fill text-warning"></i>
+                                    <i class="bi bi-star-fill text-warning"></i>
+                                </li>
+                                <li class="text-muted text-right">@item.Price.ToString("N0") VNĐ</li>
+                            </ul>
+                            <a class="h3 text-decoration-none text-dark">@item.Name</a>
+                            <p class="text-muted">Đánh giá (@item.Id) </p>
+                        </div>
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+</section>
+<!-- End Top New Product of Coffe Shop -->

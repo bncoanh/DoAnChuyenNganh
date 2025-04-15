@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "HomePage";
+}
+
+<div class="card" id="card_container">
+    <div class="card-header p-0">
+        <div class="row">
+            <div class=" col-4"></div>
+            <h2 class="text-dark fw-bolder text-center mt-1 col-4 mb-0" style="color:#001eaa !important">THỐNG KÊ</h2>
+        </div>
+    </div>
+
+
+
+    <div class="card-body pb-0">
+        <div class="row gy-0 mt-1">
+            <div class="col-12 mb-1 pe-0">
+                <div class="card m-0 p-1" id="card_okng">
+                    <div class="row">
+                        <div class="col-4">
+                            <input class="form-control form-control-sm" type="month" value="@ViewBag.Month" onchange="reloadChartPuchase()" id="inputMonth" />
+                        </div>
+                        <div class="col-4">
+                            <h6 class="p-0 mb-0 w-100 text-center fw-bold mt-1" id="title_puchase">Doanh thu tháng @ViewBag.Month1.ToString()-@ViewBag.Year.ToString()</h6>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="chart_puchase" style="height:20vh"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-12 mb-1 pe-0">
+                <div class="card m-0 p-1" id="card_okng">
+                    <div class="row">
+                        <div class="col-4">
+                            <select class="form-control form-control-sm mb-1" id="selected_top_sale" style="max-width: fit-content" onchange="onchangeSelectTop('#selected_top_sale', '#title_top_sale')">
+                                <option value="5">Top 5</option>
+                                <option value="10">Top 10</option>
+                            </select>
+                        </div>
+                        <div class="col-4">
+                            <h6 class="p-0 mb-0 w-100 text-center fw-bold mt-1" id="title_top_sale">TOP 5 sản phẩm bán chạy</h6>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="chart_top_sale" style="height:20vh"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-12 mb-1 pe-0">
+                <div class="card m-0 p-1" id="card_okng">
+                    <div class="row">
+                        <div class="col-4">
+                            <select class="form-control form-control-sm mb-1" id="selected_hardest_to_sell" style="max-width: fit-content" onchange="onchangeSelectTop('#selected_hardest_to_sell', '#title_hardest_to_sell')">
+                                <option value="5">Top 5</option>
+                                <option value="10">Top 10</option>
+                            </select>
+                        </div>
+                        <div class="col-4">
+                            <h6 class="p-0 mb-0 w-100 text-center fw-bold mt-1" id="title_hardest_to_sell">TOP 5 sản phẩm bán ít nhất</h6>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="chart_hardest_to_sell" style="height:20vh"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/admin/home.js"></script>
+

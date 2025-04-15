@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "HistoryPurchase";
+
+}
+
+<div style="height:50px"></div>
+<div class="card card-custom gutter-b mt-1 ">
+    <div class="card-body">
+        
+        <div class="row mt-2 pe-0 me-0">
+            <div class="col-12 mb-2 row pe-0 m-0">
+                <div class="pagetitle col-sm-8 col-12 m-0">
+                    <h1 class="fs-2">Lịch sử mua hàng</h1>
+                </div>
+            </div>
+
+            <div class="col-12 mb-1 row pe-0 m-0">
+                <div class="col-md-8 col-12 p-0">
+                </div>
+                <div class="col-md-4 col-12 mb-1 p-0">
+                    <div class="input-group mb-1 me-1">
+                        <input id="request" type="text" class="form-control" placeholder="Tìm kiếm">
+                        <button class="btn btn-primary" type="button" id="btn_search" onclick="GetAll()"><i class="bi bi-search"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <table class="table align-middle mb-0 bg-white table-bordered">
+            <thead class="bg-light">
+                <tr>
+                    <th class="text-center">Mã hóa đơn</th>
+                    <th class="text-center">Ngày tạo đơn</th>
+                    <th class="text-center">Trạng thái</th>
+                    <th class="text-center">Tổng</th>
+                    <th class="text-center">Tên</th>
+                    <th class="text-center">Điện thoại</th>
+                    <th class="text-center">Địa chỉ</th>
+                    <th class="text-center"></th>
+                </tr>
+            </thead>
+            <tbody id="tbody">
+            </tbody>
+        </table>
+    </div>
+</div>
+<div style="height:50px"></div>
+<script src="~/js/client/historypurchase.js"></script>

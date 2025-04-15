@@ -1,0 +1,131 @@
+﻿@{
+    ViewData["Title"] = "OrderDetails";
+    var total = ViewBag.Total + 25000;
+}
+
+<link href="~/css/client/cart.css" rel="stylesheet" />
+<div class="container">
+    <div style="height:50px"></div>
+    <h3>Đơn hàng: @ViewBag.Order.OrderCode  @ViewBag.Order.CreateDate.ToString("MM/dd/yyyy HH:mm:ss")</h3>
+    <div class="row">
+        <div class="col-xl-8">
+            <div id="cart_item">
+
+                @foreach (var item in ViewBag.Details)
+                {
+                    <div class="card border shadow-none" id="cart_product_${index}">
+                        <div class="card-body">
+                            <div class="d-flex align-items-start border-bottom pb-3">
+                                <div class="me-4">
+                                    <img src="@item.ImageUrl" alt="" class="avatar-lg rounded">
+                                </div>
+                                <div class="flex-grow-1 align-self-center overflow-hidden">
+                                    <div>
+                                        <h5 class="text-truncate font-size-18"><a href="#" class="text-dark">@item.ProductName</a></h5>
+                                        <p class="text-muted mb-0">
+                                            <i class="text-warning bi bi-star-fill"></i>
+                                            <i class="text-warning bi bi-star-fill"></i>
+                                            <i class="text-warning bi bi-star-fill"></i>
+                                            <i class="text-warning bi bi-star-fill"></i>
+                                            <i class="text-warning bi bi-star-fill"></i>
+
+                                        </p>
+                                        <p class="mb-0 mt-1">Size: <span class="fw-medium">@item.SizeName</span></p>
+                                    </div>
+                                </div>
+                                <div class="flex-shrink-0 ms-2">
+                                    <ul class="list-inline mb-0 font-size-16">
+                                        <li class="list-inline-item">
+
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div>
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="mt-3">
+                                            <p class="text-muted mb-2">Giá</p>
+                                            <h5 class="mb-0 mt-2">@item.Price.ToString("N0") VNĐ</h5>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-5">
+                                        <div class="mt-3">
+                                            <p class="text-muted mb-2">Số lượng</p>
+                                            <div class="d-inline-flex">
+                                                <h5>@item.Quantity</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="mt-3">
+                                            <p class="text-muted mb-2">Tổng</p>
+                                            <h5>@item.TotalMoney.ToString("N0") VNĐ</h5>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+
+        <div class="col-xl-4">
+
+
+            <div class="mt-5 mt-lg-0">
+                <div class="card border shadow-none">
+                    <div class="card-header bg-transparent border-bottom py-3 px-4">
+                        <div class="col-12">
+                            <label for="customer_name" class="form-label form-label-sm mb-0">Tên</label>
+                            <input type="text" class="form-control form-control-sm" id="customer_name" value="@ViewBag.Order.CustomerName" disabled readonly>
+                        </div>
+
+                        <div class="col-12">
+                            <label for="customer_phone" class="form-label form-label-sm mb-0">Điện thoại</label>
+                            <input type="text" class="form-control form-control-sm" id="customer_phone" value="@ViewBag.Order.PhoneNumber" disabled readonly>
+                        </div>
+
+                        <div class="col-12">
+                            <label for="customer_address" class="form-label form-label-sm mb-0">Địa chỉ</label>
+                            <input type="text" class="form-control form-control-sm" id="customer_address" value="@ViewBag.Order.Address" disabled readonly>
+                        </div>
+                    </div>
+                    <div class="card-body p-4 pt-2">
+                        <h5 class="font-size-16 mb-0">
+                           Đơn hàng @* <span class="float-end">#MN0124</span>*@
+                        </h5>
+                        <div class="table-responsive">
+                            <table class="table mb-0">
+                                <tbody>
+                                    <tr>
+                                        <td>Tổng hàng:</td>
+                                        <td class="text-end" id="sub_total">@ViewBag.Total.ToString("N0")</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Phí vận chuyển:</td>
+                                        <td class="text-end" id="shipping_charge">25,000 VNĐ</td>
+                                    </tr>
+                                    <tr class="bg-light">
+                                        <th>Tổng:</th>
+                                        <td class="text-end">
+                                            <span class="fw-bold" id="total_money">
+                                                @total.ToString("N0")
+                                            </span>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

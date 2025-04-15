@@ -1,0 +1,119 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,600,0,0" />
+    <title>ĐĂNG NHẬP HỆ THỐNG</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CafeShop.styles.css" asp-append-version="true" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/templatemo.min.css" rel="stylesheet" />
+
+    <link href="~/css/fontawesome.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .text-danger {
+            color: red;
+            margin: 0 !important;
+        }
+    </style>
+    <style>
+        .divider:after,
+        .divider:before {
+            content: "";
+            flex: 1;
+            height: 1px;
+            background: #eee;
+        }
+
+        .h-custom {
+            height: calc(100% - 73px);
+        }
+    </style>
+</head>
+
+
+<body>
+
+    <section class="vh-100">
+        <div class="container-fluid h-custom">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-md-9 col-lg-6 col-xl-5">
+                    <img src="~/assets/images/login.jpg"
+                         class="img-fluid" alt="Sample image" style="border-radius: 5%">
+                </div>
+                <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+                    <form asp-action="Privacy" asp-controller="Home" method="post">
+                        <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+                            <p class="lead fw-normal mb-0 me-3">Đăng nhập với</p>
+                            <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-floating mx-1">
+                                <i class="bi bi-facebook"></i>
+                            </button>
+
+                            <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-floating mx-1">
+                                <i class="bi bi-twitter-x"></i>
+                            </button>
+
+                            <button type="button" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-floating mx-1">
+                                <i class="bi bi-google"></i>
+                            </button>
+                        </div>
+
+                        <div class="divider d-flex align-items-center my-4">
+                            <p class="text-center fw-bold mx-3 mb-0">Hoặc </p>
+                        </div>
+
+                        <!-- Email input -->
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <label class="form-label" for="EmailForm">Tên đăng nhập</label>
+                            <input type="text" name="Email" id="EmailForm" class="form-control form-control-lg"
+                                   placeholder="Email" required />
+                        </div>
+
+                        <!-- Password input -->
+                        <div data-mdb-input-init class="form-outline mb-3">
+                            <label class="form-label" for="PassWordForm">Mật khẩu</label>
+                            <input type="password" id="PassWordForm" name="PassWord" class="form-control form-control-lg"
+                                   placeholder="Mật khẩu" required />
+                        </div>
+
+                        <p class="text-danger">@ViewBag.Error</p>
+
+
+                        <div class="text-center text-lg-start mt-4 pt-2">
+                            <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-primary btn-lg"
+                                    style="padding-left: 2.5rem; padding-right: 2.5rem;">
+                                Đăng nhập
+                            </button>
+                            <p class="small fw-bold mt-2 pt-1 mb-0">
+                                Bạn chưa có tài khoản? <a asp-controller="Account" asp-action="Register"
+                                                          class="link-danger ml-2">Đăng ký</a>
+                            </p>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/jquery-1.11.0.min.js"></script>
+    <script src="~/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="~/js/templatemo.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/client/login.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\updatedb.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\updatedb.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\dtos\\productsizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\dtos\\productsizedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\reposiory\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\reposiory\\producttyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\common\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\common\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|c:\\users\\asus\\onedrive\\documents\\\u0111\u1ED3 \u00E1n chuyueen ng\u00E0nh\\cafeshop\\cafeshop\\cafeshop\\reposiory\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147631B-BE6F-41A2-A39D-3B14E0630B95}|CafeShop\\CafeShop.csproj|solutionrelative:cafeshop\\reposiory\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateDB.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\UpdateDB.txt",
+              "RelativeDocumentMoniker": "CafeShop\\UpdateDB.txt",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\UpdateDB.txt",
+              "RelativeToolTip": "CafeShop\\UpdateDB.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-28T10:03:17.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAIwIgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:51:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:17:54.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T09:17:03.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:20:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CafeShop\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T15:20:12.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:47:44.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Reposiory\\ProductTypeRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Reposiory\\ProductTypeRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Reposiory\\ProductTypeRepository.cs",
+              "RelativeToolTip": "CafeShop\\Reposiory\\ProductTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:47:34.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductSizeDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\DTOs\\ProductSizeDto.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\DTOs\\ProductSizeDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\DTOs\\ProductSizeDto.cs",
+              "RelativeToolTip": "CafeShop\\Models\\DTOs\\ProductSizeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:33.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "CafeShop\\Models\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:31.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductType.cs",
+              "RelativeToolTip": "CafeShop\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:21.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductSize.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\ProductSize.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductSize.cs",
+              "RelativeToolTip": "CafeShop\\Models\\ProductSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:18.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Common\\Config.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Common\\Config.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Common\\Config.cs",
+              "RelativeToolTip": "CafeShop\\Common\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:38:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:20:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductImage.cs",
+              "RelativeToolTip": "CafeShop\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:44:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\ProductDetails.cs",
+              "RelativeToolTip": "CafeShop\\Models\\ProductDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:27:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Models\\Product.cs",
+              "RelativeToolTip": "CafeShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:27:44.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CafeShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:30:01.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CafeShop\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CafeShop\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:29:37.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Reposiory\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "CafeShop\\Reposiory\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documents\\\u0110\u1ED3 \u00E1n chuyueen ng\u00E0nh\\CafeShop\\CafeShop\\CafeShop\\Reposiory\\AccountRepository.cs",
+              "RelativeToolTip": "CafeShop\\Reposiory\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:29:30.547Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 70,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

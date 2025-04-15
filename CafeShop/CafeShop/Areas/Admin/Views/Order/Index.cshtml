@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Order";
+}
+
+<div class="card card-custom gutter-b mt-1 ">
+    <div class="card-body">
+
+        <div class="row mt-2 pe-0 me-0">
+            <div class="col-12 mb-2 row pe-0 m-0">
+                <div class="pagetitle col-sm-8 col-12 m-0">
+                    <h1 class="fs-2">Đơn đặt hàng</h1>
+                </div>
+            </div>
+
+            <div class="col-12 mb-1 row pe-0 m-0">
+                <div class="col-md-2 col-12 p-1">
+                    <div>
+                        <label for="formDateStart" class="form-label form-label-sm mb-0">Từ ngày</label>
+                        <input type="date" class="form-control form-control-sm" id="date_start" value="@ViewBag.FirstDay.ToString("yyyy-MM-dd")">
+                    </div>
+                </div>
+                <div class="col-md-2 col-12 p-1">
+                    <div>
+                        <label for="formDateStart" class="form-label form-label-sm mb-0">Đến ngày</label>
+                        <input type="date" class="form-control form-control-sm" id="date_end" value="@DateTime.Now.ToString("yyyy-MM-dd")">
+                    </div>
+                </div>
+                <div class="col-md-2 col-12 p-1">
+                    <div>
+                        <label for="formDateStart" class="form-label form-label-sm mb-0">Trạng thái</label>
+                        <select class="form-control form-control-sm" id="order_status">
+                            <option value="-1" selected>==== Tất cả ====</option>
+                            <option value="0">Chờ xác nhận</option>
+                            <option value="1">Đang giao</option>
+                            <option value="2">Hoàn thành</option>
+                            <option value="3">Đã hủy</option>
+                        </select>    
+                    </div>
+                </div>
+                <div class="col-md-2 col-12 p-1">
+                </div>
+                <div class="col-md-4 col-12 p-1">
+                    <div class="input-group me-1 mt-3">
+                        <input id="request" type="text" class="form-control form-control-sm" placeholder="Tìm kiếm">
+                        <button class="btn btn-primary btn-sm" type="button" id="btn_search"><i class="bi bi-search"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <table class="table table-bordered border-primary font-custom">
+            <thead>
+                <tr class="text-center align-middle">
+                    <th class="table-color" scope="col" style="width: 10%"></th>
+                    <th class="table-color" scope="col">Mã đơn</th>
+                    <th class="table-color" scope="col">Ngày tạo</th>
+                    <th class="table-color" scope="col">Trạng thái</th>
+                    <th class="table-color" scope="col">Tên khách hàng</th>
+                    <th class="table-color" scope="col">Điện thoại</th>
+                    <th class="table-color" scope="col">Địa chỉ</th>
+                </tr>
+            </thead>
+            <tbody id="tbody">
+            </tbody>
+        </table>
+
+        @* Phan trang *@
+        <div class="row d-flex justify-content-between">
+            <div class="col-xl-2 col-sm-12 ">
+                <p id="page_details"></p>
+            </div>
+            <div class="col-xl-4 col-sm-12 d-flex justify-content-end me-2">
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination" id="pagination">
+                    </ul>
+                </nav>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="~/js/admin/order.js"></script>

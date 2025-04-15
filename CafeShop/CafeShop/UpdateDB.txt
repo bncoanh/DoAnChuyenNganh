@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection "Data Source=MSI\SQLEXPRESS;Initial Catalog=cafe;Integrated Security=True"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Context ApplicationDbContext

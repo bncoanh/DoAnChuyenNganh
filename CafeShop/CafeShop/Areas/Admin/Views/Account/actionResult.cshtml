@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "actionResult";
+}
+
+
+<table class="table table-bordered border-primary font-custom">
+    <thead>
+        <tr class="text-center align-middle">
+            <th class="table-color text-center" scope="col">Email</th>
+            <th class="table-color text-center" scope="col">Họ tên</th>
+            <th class="table-color text-center" scope="col">Giới tính</th>
+            <th class="table-color text-center" scope="col">Chức vụ</th>
+            <th class="table-color text-center" scope="col">Điện thoại</th>
+            <th class="table-color text-center" scope="col">Địa chỉ</th>
+        </tr>
+    </thead>
+    <tbody id="tbody">
+
+        @foreach (var item in ViewBag.data)
+        {
+            <tr class="text-center align-middle">
+                <td class="table-color text-center" scope="col">@item.Email</td>
+                <td class="table-color text-center" scope="col">@item.FullName</td>
+                <td class="table-color text-center" scope="col">@item.Gender</td>
+                <td class="table-color text-center" scope="col">@item.Role</td>
+                <td class="table-color text-center" scope="col">@item.PhoneNumber</td>
+                <td class="table-color text-center" scope="col">@item.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,2253 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\CafeShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CafeShop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\js\\ajax.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\js\\ajax.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\da.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\da.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\license.txt"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\accordion\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\template\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\template\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\Admin\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\Admin\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\aboutBanner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutBanner.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\badohn.JPG",
+      "PackagePath": "staticwebassets\\assets\\images\\badohn.JPG"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\login.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\login.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\premiumProductDetail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\premiumProductDetail.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product2.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\regis.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\regis.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\assets\\images\\showCase.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\showCase.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\Client\\cart.css",
+      "PackagePath": "staticwebassets\\css\\Client\\cart.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\css\\slick.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_225427_335_BacSiu.jpg",
+      "PackagePath": "staticwebassets\\images\\20240605_225427_335_BacSiu.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_225501_983_BacSiu.jpg",
+      "PackagePath": "staticwebassets\\images\\20240605_225501_983_BacSiu.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_225858_994_BacSiuNong.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_225858_994_BacSiuNong.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_225953_776_CaPheDenDa.jpg",
+      "PackagePath": "staticwebassets\\images\\20240605_225953_776_CaPheDenDa.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230139_748_CaPheDenNong.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230139_748_CaPheDenNong.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230330_223_CaPheSuaDa.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230330_223_CaPheSuaDa.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230407_357_CaPheSuaNong.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230407_357_CaPheSuaNong.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230525_788_CaramelMachiatoDa.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230525_788_CaramelMachiatoDa.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230611_618_CaramelMachiatoNong.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230611_618_CaramelMachiatoNong.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230710_502_DuongDenMarbleLatte.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230710_502_DuongDenMarbleLatte.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230812_734_HiTeaDao.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230812_734_HiTeaDao.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_230914_382_HiTeaDaoKombucha.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_230914_382_HiTeaDaoKombucha.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232338_079_HiTeaYuzuKombucha.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232338_079_HiTeaYuzuKombucha.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232436_486_OolongTuQuyKimQuatTranChau.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232436_486_OolongTuQuyKimQuatTranChau.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232513_184_OolongTuQuySenwebp.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232513_184_OolongTuQuySenwebp.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232545_774_OoLongTuQuyVai.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232545_774_OoLongTuQuyVai.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232707_062_BanhMiQuePateCay.jpg",
+      "PackagePath": "staticwebassets\\images\\20240605_232707_062_BanhMiQuePateCay.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232741_030_BanhMiThitNguoi.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232741_030_BanhMiThitNguoi.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232813_993_CroissantTrungMuoi.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232813_993_CroissantTrungMuoi.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232850_677_MochiKemDuaDua.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232850_677_MochiKemDuaDua.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232921_775_MochiKemPhucBonTu.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232921_775_MochiKemPhucBonTu.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240605_232958_120_MochiKemVietQuat.webp",
+      "PackagePath": "staticwebassets\\images\\20240605_232958_120_MochiKemVietQuat.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240606_152202_674_TheCoffeHouseSuaDa.webp",
+      "PackagePath": "staticwebassets\\images\\20240606_152202_674_TheCoffeHouseSuaDa.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240606_164214_050_TheCoffeHouseSuaDa.webp",
+      "PackagePath": "staticwebassets\\images\\20240606_164214_050_TheCoffeHouseSuaDa.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240606_164514_352_CaPheDenDa.jpg",
+      "PackagePath": "staticwebassets\\images\\20240606_164514_352_CaPheDenDa.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240608_114641_251_20240605_225858_994_BacSiuNong.webp",
+      "PackagePath": "staticwebassets\\images\\20240608_114641_251_20240605_225858_994_BacSiuNong.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\images\\20240608_114729_784_20240605_225858_994_BacSiuNong.webp",
+      "PackagePath": "staticwebassets\\images\\20240608_114729_784_20240605_225858_994_BacSiuNong.webp"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\order.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\order.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\product.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\product.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\productSize.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\productSize.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Admin\\productType.js",
+      "PackagePath": "staticwebassets\\js\\Admin\\productType.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Client\\cart.js",
+      "PackagePath": "staticwebassets\\js\\Client\\cart.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Client\\historyPurchase.js",
+      "PackagePath": "staticwebassets\\js\\Client\\historyPurchase.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Client\\productDetails.js",
+      "PackagePath": "staticwebassets\\js\\Client\\productDetails.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\Client\\shop.js",
+      "PackagePath": "staticwebassets\\js\\Client\\shop.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\0806\\CafeShop\\CafeShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.CafeShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.CafeShop.props",
+      "PackagePath": "build\\CafeShop.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CafeShop.props",
+      "PackagePath": "buildMultiTargeting\\CafeShop.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.CafeShop.props",
+      "PackagePath": "buildTransitive\\CafeShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

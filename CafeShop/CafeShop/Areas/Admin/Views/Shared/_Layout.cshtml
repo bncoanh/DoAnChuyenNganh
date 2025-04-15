@@ -1,0 +1,353 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["CafeShop"] - The Caffee House</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/CafeShop.styles.css" asp-append-version="true" />
+    <link href="~/assets/admin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/assets/admin/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="~/assets/admin/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="~/assets/admin/vendor/quill/quill.snow.css" rel="stylesheet">
+    <link href="~/assets/admin/vendor/quill/quill.bubble.css" rel="stylesheet">
+    <link href="~/assets/admin/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="~/assets/admin/vendor/simple-datatables/style.css" rel="stylesheet">
+    <link href="~/assets/admin/css/style.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+
+</head>
+
+@{
+    var FullName = Context.Session.GetString("FullName");
+    var Id = Context.Session.GetInt32("AccountId");
+    var Role = Context.Session.GetInt32("AccountRole");
+    if (Id <= 0)
+    {
+        Context.Response.Redirect("/Home/Privacy");
+    }
+}
+
+<body>
+    <div id="header" class="header fixed-top d-flex align-items-center">
+
+        <div class="d-flex align-items-center justify-content-between">
+            <a href="index.html" class="logo d-flex align-items-center">
+                <span class="d-none d-lg-block">The Coffee House Admin</span>
+            </a>
+            <i class="bi bi-list toggle-sidebar-btn"></i>
+        </div><!-- End Logo -->
+        <!-- End Search Bar -->
+
+        <nav class="header-nav ms-auto">
+            <ul class="d-flex align-items-center">
+
+                <li class="nav-item d-block d-lg-none">
+                    <a class="nav-link nav-icon search-bar-toggle " href="#">
+                        <i class="bi bi-search"></i>
+                    </a>
+                </li><!-- End Search Icon-->
+
+                <li class="nav-item dropdown">
+
+                    <a class="nav-link nav-icon" href="#" data-bs-toggle="dropdown">
+                        <i class="bi bi-bell"></i>
+                        <span class="badge bg-primary badge-number">4</span>
+                    </a><!-- End Notification Icon -->
+
+                    <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
+                        <li class="dropdown-header">
+                            You have 4 new notifications
+                            <a href="#"><span class="badge rounded-pill bg-primary p-2 ms-2">View all</span></a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="notification-item">
+                            <i class="bi bi-exclamation-circle text-warning"></i>
+                            <div>
+                                <h4>Lorem Ipsum</h4>
+                                <p>Quae dolorem earum veritatis oditseno</p>
+                                <p>30 min. ago</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="notification-item">
+                            <i class="bi bi-x-circle text-danger"></i>
+                            <div>
+                                <h4>Atque rerum nesciunt</h4>
+                                <p>Quae dolorem earum veritatis oditseno</p>
+                                <p>1 hr. ago</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="notification-item">
+                            <i class="bi bi-check-circle text-success"></i>
+                            <div>
+                                <h4>Sit rerum fuga</h4>
+                                <p>Quae dolorem earum veritatis oditseno</p>
+                                <p>2 hrs. ago</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="notification-item">
+                            <i class="bi bi-info-circle text-primary"></i>
+                            <div>
+                                <h4>Dicta reprehenderit</h4>
+                                <p>Quae dolorem earum veritatis oditseno</p>
+                                <p>4 hrs. ago</p>
+                            </div>
+                        </li>
+
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+                        <li class="dropdown-footer">
+                            <a href="#">Show all notifications</a>
+                        </li>
+
+                    </ul><!-- End Notification Dropdown Items -->
+
+                </li><!-- End Notification Nav -->
+
+                <li class="nav-item dropdown">
+
+                    <a class="nav-link nav-icon" href="#" data-bs-toggle="dropdown">
+                        <i class="bi bi-chat-left-text"></i>
+                        <span class="badge bg-success badge-number">3</span>
+                    </a><!-- End Messages Icon -->
+
+                    <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow messages">
+                        <li class="dropdown-header">
+                            You have 3 new messages
+                            <a href="#"><span class="badge rounded-pill bg-primary p-2 ms-2">View all</span></a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="message-item">
+                            <a href="#">
+                                <div>
+                                    <h4>Maria Hudson</h4>
+                                    <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
+                                    <p>4 hrs. ago</p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="message-item">
+                            <a href="#">
+                                <div>
+                                    <h4>Anna Nelson</h4>
+                                    <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
+                                    <p>6 hrs. ago</p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="message-item">
+                            <a href="#">
+                                <div>
+                                    <h4>David Muldon</h4>
+                                    <p>Velit asperiores et ducimus soluta repudiandae labore officia est ut...</p>
+                                    <p>8 hrs. ago</p>
+                                </div>
+                            </a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li class="dropdown-footer">
+                            <a href="#">Show all messages</a>
+                        </li>
+
+                    </ul><!-- End Messages Dropdown Items -->
+
+                </li><!-- End Messages Nav -->
+
+                <li class="nav-item dropdown pe-3">
+
+                    <a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
+                        <span class="d-none d-md-block dropdown-toggle ps-2">@FullName</span>
+                    </a><!-- End Profile Iamge Icon -->
+
+                    <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
+                        <li class="dropdown-header">
+                            <h6>@FullName</h6>
+                            <span>Web Designer</span>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li>
+                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                <i class="bi bi-person"></i>
+                                <span>Hồ sơ của tôi</span>
+                            </a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li>
+                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                <i class="bi bi-gear"></i>
+                                <span>Cài đặt</span>
+                            </a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li>
+                            <a class="dropdown-item d-flex align-items-center" href="#">
+                                <i class="bi bi-question-circle"></i>
+                                <span>Trợ giúp?</span>
+                            </a>
+                        </li>
+                        <li>
+                            <hr class="dropdown-divider">
+                        </li>
+
+                        <li>
+                            <a class="dropdown-item d-flex align-items-center" asp-area="Views" asp-controller="Home" asp-action="Privacy">
+                                <i class="bi bi-box-arrow-right"></i>
+                                <span>Đăng xuất</span>
+                            </a>
+                        </li>
+
+                    </ul><!-- End Profile Dropdown Items -->
+                </li><!-- End Profile Nav -->
+
+            </ul>
+        </nav><!-- End Icons Navigation -->
+
+    </div><!-- End Header -->
+    <!-- ======= Sidebar ======= -->
+    <aside id="sidebar" class="sidebar">
+
+        <ul class="sidebar-nav" id="sidebar-nav">
+
+            <li class="nav-item">
+                <a class="nav-link" asp-controller="Home" asp-action="Index">
+                    <i class="bi bi-grid"></i>
+                    <span>Thống kê</span>
+                </a>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#product-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-menu-button-wide"></i><span>Quản lý</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="product-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                    <li>
+                        <a asp-controller="Product" asp-action="ProductType">
+                            <i class="bi bi-collection fs-6"></i> Loại sản phẩm
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-controller="ProductSize" asp-action="Index">
+                            <i class="bi bi-asterisk fs-6"></i> Size sản phẩm
+                        </a>
+                    </li>
+                    <li>
+                        <a asp-controller="Product" asp-action="Index">
+                            <i class="bi bi-cup-hot-fill fs-6"></i> Sản phẩm
+                        </a>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#account-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-person-vcard "></i><span>Tài khoản</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="account-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                  
+                    <li>
+                        <a asp-controller="Account" asp-action="Index">
+                            <i class="bi bi-person-lines-fill fs-6"></i> Tài khoản
+                        </a>
+                    </li>
+
+                </ul>
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link collapsed" data-bs-target="#order-nav" data-bs-toggle="collapse" href="#">
+                    <i class="bi bi-bag"></i><span>Đơn hàng</span><i class="bi bi-chevron-down ms-auto"></i>
+                </a>
+                <ul id="order-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+
+                    <li>
+                        <a asp-controller="Order" asp-action="Index">
+                            <i class="bi bi-receipt fs-6"></i> Đơn hàng
+                        </a>
+                    </li>
+
+                </ul>
+            </li>
+
+        </ul>
+
+    </aside><!-- End Sidebar-->
+
+
+    <div class="container mb-4">
+        <main role="main" id="main" class="main" style="margin-left:">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <div style="height: 100px"></div>
+
+    <div id="footer" class="footer mt-3">
+        <div class="copyright">
+            &copy; Copyright <strong><span>Nguyễn Hữu Hùng</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+
+            Designed by <a href="h#">Nguyễn Hữu Hùng</a>
+        </div>
+    </div><!-- End Footer -->
+
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+
+<script src="~/assets/admin/vendor/apexcharts/apexcharts.min.js"></script>
+<script src="~/assets/admin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="~/assets/admin/vendor/chart.js/chart.umd.js"></script>
+<script src="~/assets/admin/vendor/echarts/echarts.min.js"></script>
+<script src="~/assets/admin/vendor/quill/quill.min.js"></script>
+<script src="~/assets/admin/vendor/simple-datatables/simple-datatables.js"></script>
+<script src="~/assets/admin/vendor/tinymce/tinymce.min.js"></script>
+<script src="~/assets/admin/vendor/php-email-form/validate.js"></script>
+<script src="~/assets/admin/js/main.js"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</html>
